@@ -10,4 +10,3 @@ class Card
 
 end
 
-card1 = Card.new("What is the capital of Alaska?", "Juneau", :Geography)
